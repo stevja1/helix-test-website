@@ -1,9 +1,12 @@
-# Your Project's Title...
-Your project's description...
+# Learn Helix 
+Learn Helix.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--helix-test-website--stevja1.hlx.page/
+- Live: https://main--helix-test-website--stevja1.hlx.live/
+
+None of these appear to be working currently... not sure what's up with Helix bot. Following instructions here:
+https://www.hlx.live/developer/tutorial
 
 ## Installation
 
